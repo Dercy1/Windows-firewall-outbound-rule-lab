@@ -38,7 +38,7 @@ Create a custom outbound rule to block web traffic on TCP ports 80 and 443.
 ![Windows Firewall Status](Screenshots/Windows-Firewall-status.png)
 
 ### 3. Windows Firewall with Advanced Security
-![Windows Firewall with Advanced Security](Screenshots/Windows-Firewall%20with-Advanced-Security.png)
+![Windows Firewall with Advanced Security](Screenshots/Windows-Firewall-with-Advanced-Security.png)
 
 ### 4. Outbound Rules Selected
 ![Outbound Rules Selected](Screenshots/Outbound-Rules-Selected.png)
