@@ -44,7 +44,7 @@ Create a custom outbound rule to block web traffic on TCP ports 80 and 443.
 ![Outbound Rules Selected](Screenshots/Outbound-Rules-Selected.png)
 
 ### 5. Protocol and Ports Configuration
-![Protocol and Ports Configuration](Screenshots/Protocol-and-Ports-Configuration-(TCP-80,443).png)
+![Protocol and Ports Configuration](Screenshots/Protocol-and-Ports-Configuration-TCP-80,443.png)
 
 ### 6. Scope Configuration
 ![Scope Configuration](Screenshots/Scope-Configuration.png)
@@ -53,7 +53,7 @@ Create a custom outbound rule to block web traffic on TCP ports 80 and 443.
 ![Block the Connection Action](Screenshots/Block-the-Connection-Action.png)
 
 ### 8. Profile Selection
-![Profile Selection](Screenshots/Profile-Selection-(Domain-Private-Public).png)
+![Profile Selection](Screenshots/Profile-Selection-Domain-Private-Public.png)
 
 ### 9. Rule Name (Web Filtering)
 ![Rule Name](Screenshots/Rule-Name(Web-Filtering).png)
